@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Franklin
+- 👋 Hi, I’m @Franklin1129
 - 👀 I’m interested in machine learning, and network technology.
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on projects on machine learning 
